@@ -1,1 +1,1 @@
-# Discord-Webhook-nuker
+i did my best to do this basicly when an scammer sends you an file like an new game that they made or an discord free nitro generator if you find an  discord webhook link in any of them and your sure that its suspicious you can put the url into here and it will nuke it
